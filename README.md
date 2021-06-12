@@ -16,4 +16,3 @@ On my spare time i play professional handball for a team called Haslum hk.
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=trondtjemsland)
 
 
-[![Linkedin Badge](https://img.shields.io/badge/-trond-tjemsland?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/trondtjemsland/)](https://www.linkedin.com/in/trondtjemsland/)
